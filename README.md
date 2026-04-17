@@ -29,7 +29,7 @@ This project presents an interactive Tableau dashboard for analyzing sales perfo
 
 ## 📷 Dashboard Preview
 
-![Dashboard-output](
+![Dashboard-output](output/Dashboard-output.png)
 
 ## 🚀 Conclusion
 
